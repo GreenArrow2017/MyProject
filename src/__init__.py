@@ -25,7 +25,6 @@ def read_math23k_json(filename):
 
 if __name__ == '__main__':
     file_list = read_json("allArith/questions.json")
-    for i in range(len(file_list)):
-        if len(file_list[i]['quants']) == 3:
-            print(file_list[i]['iIndex'], file_list[i]['lEquations'])
+    print(len(file_list))
+    print(file_list[0]["template"])
 
