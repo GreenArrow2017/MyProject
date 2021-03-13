@@ -11154,7 +11154,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 847,
@@ -11174,7 +11175,8 @@
     "lSolutions": [
       70.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 848,
@@ -11195,7 +11197,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 849,
@@ -11216,7 +11219,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 850,
@@ -11238,7 +11242,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 851,
@@ -11260,7 +11265,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 852,
@@ -11281,7 +11287,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 853,
@@ -11302,7 +11309,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 854,
@@ -11323,7 +11331,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 855,
@@ -11344,7 +11353,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 856,
@@ -11365,7 +11375,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 857,
@@ -11386,7 +11397,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 858,
@@ -11407,7 +11419,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 859,
@@ -11428,7 +11441,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 860,
@@ -11449,7 +11463,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 861,
@@ -11470,7 +11485,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 862,
@@ -11491,7 +11507,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 864,
@@ -11512,7 +11529,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 865,
@@ -11533,7 +11551,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 867,
@@ -11555,7 +11574,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 868,
@@ -11577,7 +11597,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 869,
@@ -11598,7 +11619,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+     "template": 0
   },
   {
     "iIndex": 870,
@@ -11620,7 +11642,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+     "template": 0
   },
   {
     "iIndex": 871,
@@ -11642,7 +11665,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+     "template": 0
   },
   {
     "iIndex": 872,
@@ -11663,7 +11687,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+     "template": 0
   },
   {
     "iIndex": 873,
@@ -11682,7 +11707,8 @@
     "lSolutions": [
       2063.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 0
   },
   {
     "iIndex": 874,
@@ -11701,7 +11727,8 @@
     "lSolutions": [
       1380.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 0
   },
   {
     "iIndex": 875,
@@ -11722,7 +11749,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+     "template": 0
   },
   {
     "iIndex": 876,
@@ -11744,7 +11772,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+     "template": 0
   },
   {
     "iIndex": 877,
@@ -11765,7 +11794,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+     "template": 0
   },
   {
     "iIndex": 878,
@@ -11784,7 +11814,8 @@
     "lSolutions": [
       493.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 0
   },
   {
     "iIndex": 879,
@@ -11803,7 +11834,8 @@
     "lSolutions": [
       3395.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 0
   },
   {
     "iIndex": 880,
@@ -11822,7 +11854,8 @@
     "lSolutions": [
       690.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 0
   },
   {
     "iIndex": 881,
@@ -11841,7 +11874,8 @@
     "lSolutions": [
       84.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 0
   },
   {
     "iIndex": 882,
@@ -11860,7 +11894,8 @@
     "lSolutions": [
       343.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 0
   },
   {
     "iIndex": 883,
@@ -11879,7 +11914,8 @@
     "lSolutions": [
       416.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 0
   },
   {
     "iIndex": 884,
@@ -11898,7 +11934,8 @@
     "lSolutions": [
       448.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 0
   },
   {
     "iIndex": 885,
@@ -11917,7 +11954,8 @@
     "lSolutions": [
       310.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 0
   },
   {
     "iIndex": 886,
@@ -11936,7 +11974,8 @@
     "lSolutions": [
       1677.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 0
   },
   {
     "iIndex": 887,
@@ -11955,7 +11994,8 @@
     "lSolutions": [
       744.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 0
   },
   {
     "iIndex": 888,
@@ -11974,7 +12014,8 @@
     "lSolutions": [
       159.7
     ],
-    "rates": []
+    "rates": [],
+     "template": 0
   },
   {
     "iIndex": 889,
@@ -11995,7 +12036,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+     "template": 0
   },
   {
     "iIndex": 890,
@@ -12015,7 +12057,8 @@
     "lSolutions": [
       0.875
     ],
-    "rates": []
+    "rates": [],
+     "template": 0
   },
   {
     "iIndex": 891,
@@ -12034,7 +12077,8 @@
     "lSolutions": [
       0.8
     ],
-    "rates": []
+    "rates": [],
+     "template": 0
   },
   {
     "iIndex": 892,
@@ -12053,7 +12097,8 @@
     "lSolutions": [
       0.375
     ],
-    "rates": []
+    "rates": [],
+     "template": 0
   },
   {
     "iIndex": 893,
@@ -12072,7 +12117,8 @@
     "lSolutions": [
       1.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 0
   },
   {
     "iIndex": 894,
@@ -12091,7 +12137,8 @@
     "lSolutions": [
       1.75
     ],
-    "rates": []
+    "rates": [],
+     "template": 0
   },
   {
     "iIndex": 895,
@@ -12110,7 +12157,8 @@
     "lSolutions": [
       4.25
     ],
-    "rates": []
+    "rates": [],
+     "template": 0
   },
   {
     "iIndex": 896,
@@ -12129,7 +12177,8 @@
     "lSolutions": [
       0.3
     ],
-    "rates": []
+    "rates": [],
+     "template": 0
   },
   {
     "iIndex": 897,
@@ -12151,7 +12200,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+     "template": 0
   },
   {
     "iIndex": 898,
@@ -12172,7 +12222,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+     "template": 0
   },
   {
     "iIndex": 899,
@@ -12193,7 +12244,8 @@
     "lSolutions": [
       39.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 900,
@@ -12214,7 +12266,8 @@
     "lSolutions": [
       8.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 901,
@@ -12235,7 +12288,8 @@
     "lSolutions": [
       2.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 902,
@@ -12256,7 +12310,8 @@
     "lSolutions": [
       40.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 903,
@@ -12277,7 +12332,8 @@
     "lSolutions": [
       3.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 904,
@@ -12298,7 +12354,8 @@
     "lSolutions": [
       7.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 905,
@@ -12319,7 +12376,8 @@
     "lSolutions": [
       19.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 906,
@@ -12340,7 +12398,8 @@
     "lSolutions": [
       2.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 907,
@@ -12364,7 +12423,8 @@
     "lSolutions": [
       11.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 908,
@@ -12385,7 +12445,8 @@
     "lSolutions": [
       1.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 910,
@@ -12406,7 +12467,8 @@
     "lSolutions": [
       9.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 913,
@@ -12427,7 +12489,8 @@
     "lSolutions": [
       15.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 914,
@@ -12448,7 +12511,8 @@
     "lSolutions": [
       2.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 916,
@@ -12469,7 +12533,8 @@
     "lSolutions": [
       86.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 917,
@@ -12490,7 +12555,8 @@
     "lSolutions": [
       50.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 926,
@@ -12511,7 +12577,8 @@
     "lSolutions": [
       17.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 934,
@@ -12532,7 +12599,8 @@
     "lSolutions": [
       15.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 943,
@@ -12553,7 +12621,8 @@
     "lSolutions": [
       24.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 949,
@@ -12574,7 +12643,8 @@
     "lSolutions": [
       22.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 951,
@@ -12595,7 +12665,8 @@
     "lSolutions": [
       15.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 962,
@@ -12616,7 +12687,8 @@
     "lSolutions": [
       49.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 963,
@@ -12637,7 +12709,8 @@
     "lSolutions": [
       62.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 964,
@@ -12658,7 +12731,8 @@
     "lSolutions": [
       24.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 965,
@@ -12679,7 +12753,8 @@
     "lSolutions": [
       48.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 966,
@@ -12700,7 +12775,8 @@
     "lSolutions": [
       61.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 967,
@@ -12721,7 +12797,8 @@
     "lSolutions": [
       40.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 968,
@@ -12742,7 +12819,8 @@
     "lSolutions": [
       20.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 969,
@@ -12763,7 +12841,8 @@
     "lSolutions": [
       10.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 970,
@@ -12784,7 +12863,8 @@
     "lSolutions": [
       41.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 971,
@@ -12805,7 +12885,8 @@
     "lSolutions": [
       6.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 972,
@@ -12826,7 +12907,8 @@
     "lSolutions": [
       33.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 973,
@@ -12847,7 +12929,8 @@
     "lSolutions": [
       52.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 974,
@@ -12868,7 +12951,8 @@
     "lSolutions": [
       27.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 976,
@@ -12889,7 +12973,8 @@
     "lSolutions": [
       8.0
     ],
-    "rates": []
+    "rates": [],
+     "template": 1
   },
   {
     "iIndex": 977,
@@ -12910,7 +12995,8 @@
     "lSolutions": [
       56.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 978,
@@ -12931,7 +13017,8 @@
     "lSolutions": [
       79.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 980,
@@ -12952,7 +13039,8 @@
     "lSolutions": [
       30.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 986,
@@ -12973,7 +13061,8 @@
     "lSolutions": [
       46.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 987,
@@ -12994,7 +13083,8 @@
     "lSolutions": [
       60.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 995,
@@ -13015,7 +13105,8 @@
     "lSolutions": [
       51.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1022,
@@ -13038,7 +13129,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1023,
@@ -13062,7 +13154,8 @@
     "rates": [
       1,
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1024,
@@ -13086,7 +13179,8 @@
     "rates": [
       1,
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1025,
@@ -13109,7 +13203,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1026,
@@ -13132,7 +13227,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1027,
@@ -13155,7 +13251,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1028,
@@ -13178,7 +13275,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1029,
@@ -13201,7 +13299,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1030,
@@ -13225,7 +13324,8 @@
     "rates": [
       1,
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1031,
@@ -13248,7 +13348,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1034,
@@ -13271,7 +13372,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1035,
@@ -13294,7 +13396,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1036,
@@ -13317,7 +13420,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1037,
@@ -13340,7 +13444,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1038,
@@ -13363,7 +13468,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1039,
@@ -13386,7 +13492,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1043,
@@ -13409,7 +13516,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1047,
@@ -13433,7 +13541,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1051,
@@ -13456,7 +13565,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1055,
@@ -13479,7 +13589,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1098,
@@ -13502,7 +13613,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1099,
@@ -13525,7 +13637,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1100,
@@ -13548,7 +13661,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1101,
@@ -13571,7 +13685,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1102,
@@ -13594,7 +13709,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1103,
@@ -13617,7 +13733,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1104,
@@ -13640,7 +13757,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1105,
@@ -13664,7 +13782,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1106,
@@ -13687,7 +13806,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1107,
@@ -13710,7 +13830,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1108,
@@ -13733,7 +13854,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1109,
@@ -13756,7 +13878,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1110,
@@ -13779,7 +13902,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1111,
@@ -13803,7 +13927,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1112,
@@ -13826,7 +13951,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1114,
@@ -13849,7 +13975,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1115,
@@ -13872,7 +13999,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1117,
@@ -13895,7 +14023,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1120,
@@ -13918,7 +14047,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1141,
@@ -13941,7 +14071,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1163,
@@ -13964,7 +14095,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1164,
@@ -13987,7 +14119,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1165,
@@ -14010,7 +14143,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1166,
@@ -14033,7 +14167,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1167,
@@ -14056,7 +14191,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1168,
@@ -14079,7 +14215,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1169,
@@ -14102,7 +14239,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1170,
@@ -14125,7 +14263,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1171,
@@ -14148,7 +14287,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1172,
@@ -14171,7 +14311,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1174,
@@ -14194,7 +14335,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1175,
@@ -14218,7 +14360,8 @@
     ],
     "rates": [
       3
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1177,
@@ -14241,7 +14384,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1181,
@@ -14264,7 +14408,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1183,
@@ -14287,7 +14432,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1184,
@@ -14310,7 +14456,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1188,
@@ -14333,7 +14480,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1189,
@@ -14356,7 +14504,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1195,
@@ -14379,7 +14528,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1202,
@@ -14403,7 +14553,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1219,
@@ -14426,7 +14577,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1220,
@@ -14450,7 +14602,8 @@
     ],
     "rates": [
       3
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1221,
@@ -14474,7 +14627,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1222,
@@ -14497,7 +14651,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1223,
@@ -14520,7 +14675,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1224,
@@ -14544,7 +14700,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1225,
@@ -14568,7 +14725,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1226,
@@ -14591,7 +14749,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1227,
@@ -14614,7 +14773,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1228,
@@ -14637,7 +14797,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1229,
@@ -14660,7 +14821,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1230,
@@ -14683,7 +14845,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1231,
@@ -14706,7 +14869,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1233,
@@ -14729,7 +14893,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1235,
@@ -14753,7 +14918,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1236,
@@ -14776,7 +14942,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1238,
@@ -14799,7 +14966,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1243,
@@ -14822,7 +14990,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1247,
@@ -14845,7 +15014,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1248,
@@ -14868,7 +15038,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 2
   },
   {
     "iIndex": 1287,
@@ -14887,7 +15058,8 @@
     "lSolutions": [
       52.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1307,
@@ -14906,7 +15078,8 @@
     "lSolutions": [
       70.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1310,
@@ -14927,7 +15100,8 @@
     "lSolutions": [
       78.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1314,
@@ -14946,7 +15120,8 @@
     "lSolutions": [
       42.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1320,
@@ -14965,7 +15140,8 @@
     "lSolutions": [
       3.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1323,
@@ -14984,7 +15160,8 @@
     "lSolutions": [
       25.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1329,
@@ -15007,7 +15184,8 @@
     "rates": [
       1,
       2
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1332,
@@ -15028,7 +15206,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1333,
@@ -15049,7 +15228,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1335,
@@ -15068,7 +15248,8 @@
     "lSolutions": [
       5.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1336,
@@ -15089,7 +15270,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1339,
@@ -15110,7 +15292,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1340,
@@ -15131,7 +15314,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1341,
@@ -15152,7 +15336,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1342,
@@ -15173,7 +15358,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1344,
@@ -15194,7 +15380,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1356,
@@ -15215,7 +15402,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1362,
@@ -15236,7 +15424,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1364,
@@ -15257,7 +15446,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1370,
@@ -15278,7 +15468,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1375,
@@ -15297,7 +15488,8 @@
     "lSolutions": [
       16.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1376,
@@ -15318,7 +15510,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1377,
@@ -15339,7 +15532,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1379,
@@ -15360,7 +15554,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1380,
@@ -15379,7 +15574,8 @@
     "lSolutions": [
       28.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1385,
@@ -15400,7 +15596,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1387,
@@ -15419,7 +15616,8 @@
     "lSolutions": [
       203.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1401,
@@ -15440,7 +15638,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1403,
@@ -15461,7 +15660,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1417,
@@ -15480,7 +15680,8 @@
     "lSolutions": [
       9.43
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1420,
@@ -15503,7 +15704,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 1
   },
   {
     "iIndex": 1421,
@@ -15522,7 +15724,8 @@
     "lSolutions": [
       21.95
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1422,
@@ -15541,7 +15744,8 @@
     "lSolutions": [
       10.46
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1424,
@@ -15560,7 +15764,8 @@
     "lSolutions": [
       21.93
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1426,
@@ -15581,7 +15786,8 @@
     "lSolutions": [
       33.56
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1427,
@@ -15602,7 +15808,8 @@
     "lSolutions": [
       158.35
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1430,
@@ -15627,7 +15834,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 3
   },
   {
     "iIndex": 1432,
@@ -15648,7 +15856,8 @@
     "lSolutions": [
       5.98
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1433,
@@ -15669,7 +15878,8 @@
     "lSolutions": [
       2.51
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1434,
@@ -15690,7 +15900,8 @@
     "lSolutions": [
       0.26
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1435,
@@ -15715,7 +15926,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 3
   },
   {
     "iIndex": 1436,
@@ -15736,7 +15948,8 @@
     "lSolutions": [
       4.05
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1442,
@@ -15755,7 +15968,8 @@
     "lSolutions": [
       27004.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1444,
@@ -15779,7 +15993,8 @@
     "lSolutions": [
       29.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 3
   },
   {
     "iIndex": 1445,
@@ -15804,7 +16019,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 4
   },
   {
     "iIndex": 1446,
@@ -15827,7 +16043,8 @@
     "lSolutions": [
       41.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 3
   },
   {
     "iIndex": 1447,
@@ -15852,7 +16069,8 @@
     "lSolutions": [
       2.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 5
   },
   {
     "iIndex": 1448,
@@ -15878,7 +16096,8 @@
     "rates": [
       2,
       3
-    ]
+    ],
+    "template": 3
   },
   {
     "iIndex": 1449,
@@ -15901,7 +16120,8 @@
     "lSolutions": [
       50.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 3
   },
   {
     "iIndex": 1450,
@@ -15924,7 +16144,8 @@
     "lSolutions": [
       15.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 3
   },
   {
     "iIndex": 1451,
@@ -15945,7 +16166,8 @@
     "lSolutions": [
       28.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1452,
@@ -15968,7 +16190,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 1
   },
   {
     "iIndex": 1453,
@@ -15991,7 +16214,8 @@
     "lSolutions": [
       1.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 3
   },
   {
     "iIndex": 1456,
@@ -16017,7 +16241,8 @@
     "rates": [
       2,
       3
-    ]
+    ],
+    "template": 3
   },
   {
     "iIndex": 1457,
@@ -16042,7 +16267,8 @@
     "lSolutions": [
       4.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 5
   },
   {
     "iIndex": 1458,
@@ -16067,7 +16293,8 @@
     ],
     "rates": [
       3
-    ]
+    ],
+    "template": 4
   },
   {
     "iIndex": 1459,
@@ -16088,7 +16315,8 @@
     "lSolutions": [
       14.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1460,
@@ -16109,7 +16337,8 @@
     "lSolutions": [
       9.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1461,
@@ -16135,7 +16364,8 @@
     "rates": [
       2,
       3
-    ]
+    ],
+    "template": 3
   },
   {
     "iIndex": 1462,
@@ -16160,7 +16390,8 @@
     ],
     "rates": [
       2
-    ]
+    ],
+    "template": 3
   },
   {
     "iIndex": 1463,
@@ -16179,7 +16410,8 @@
     "lSolutions": [
       12.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1464,
@@ -16198,7 +16430,8 @@
     "lSolutions": [
       13.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1465,
@@ -16224,7 +16457,8 @@
     "rates": [
       2,
       3
-    ]
+    ],
+    "template": 3
   },
   {
     "iIndex": 1466,
@@ -16247,7 +16481,8 @@
     "lSolutions": [
       9.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 3
   },
   {
     "iIndex": 1468,
@@ -16272,7 +16507,8 @@
     ],
     "rates": [
       3
-    ]
+    ],
+    "template": 4
   },
   {
     "iIndex": 1495,
@@ -16291,7 +16527,8 @@
     "lSolutions": [
       0.125
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1541,
@@ -16312,7 +16549,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1542,
@@ -16334,7 +16572,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1543,
@@ -16355,7 +16594,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1544,
@@ -16376,7 +16616,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1545,
@@ -16397,7 +16638,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1546,
@@ -16419,7 +16661,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1547,
@@ -16440,7 +16683,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1548,
@@ -16461,7 +16705,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1549,
@@ -16482,7 +16727,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1550,
@@ -16503,7 +16749,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1551,
@@ -16524,7 +16771,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1552,
@@ -16545,7 +16793,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1553,
@@ -16566,7 +16815,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1554,
@@ -16587,7 +16837,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1555,
@@ -16608,7 +16859,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1556,
@@ -16629,7 +16881,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1557,
@@ -16650,7 +16903,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1558,
@@ -16671,7 +16925,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1559,
@@ -16692,7 +16947,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1560,
@@ -16713,7 +16969,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1561,
@@ -16734,7 +16991,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1562,
@@ -16755,7 +17013,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1563,
@@ -16776,7 +17035,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1564,
@@ -16797,7 +17057,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1565,
@@ -16818,7 +17079,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1566,
@@ -16839,7 +17101,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1567,
@@ -16860,7 +17123,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1568,
@@ -16881,7 +17145,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1569,
@@ -16902,7 +17167,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1570,
@@ -16923,7 +17189,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1571,
@@ -16944,7 +17211,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1572,
@@ -16965,7 +17233,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1573,
@@ -16986,7 +17255,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1574,
@@ -17007,7 +17277,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1575,
@@ -17028,7 +17299,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1576,
@@ -17049,7 +17321,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1577,
@@ -17070,7 +17343,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1578,
@@ -17091,7 +17365,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1579,
@@ -17112,7 +17387,8 @@
     ],
     "rates": [
       0
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1581,
@@ -17133,7 +17409,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1582,
@@ -17152,7 +17429,8 @@
     "lSolutions": [
       323.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1587,
@@ -17171,7 +17449,8 @@
     "lSolutions": [
       2289.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1588,
@@ -17190,7 +17469,8 @@
     "lSolutions": [
       78.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1589,
@@ -17209,7 +17489,8 @@
     "lSolutions": [
       99.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1590,
@@ -17228,7 +17509,8 @@
     "lSolutions": [
       776.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1594,
@@ -17249,7 +17531,8 @@
     "lSolutions": [
       9.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1596,
@@ -17271,7 +17554,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1597,
@@ -17290,7 +17574,8 @@
     "lSolutions": [
       3750.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1600,
@@ -17312,7 +17597,8 @@
     "lSolutions": [
       7827.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 2
   },
   {
     "iIndex": 1601,
@@ -17331,7 +17617,8 @@
     "lSolutions": [
       39.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1603,
@@ -17352,7 +17639,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1608,
@@ -17374,7 +17662,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1610,
@@ -17395,7 +17684,8 @@
     "lSolutions": [
       21.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1613,
@@ -17418,7 +17708,8 @@
     "lSolutions": [
       159.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1614,
@@ -17439,7 +17730,8 @@
     ],
     "rates": [
       1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1620,
@@ -17458,7 +17750,8 @@
     "lSolutions": [
       68.25
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1623,
@@ -17479,7 +17772,8 @@
     ],
     "rates": [
       -1
-    ]
+    ],
+    "template": 0
   },
   {
     "iIndex": 1232856394,
@@ -17498,7 +17792,8 @@
     "lSolutions": [
       97.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856395,
@@ -17517,7 +17812,8 @@
     "lSolutions": [
       82.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856396,
@@ -17536,7 +17832,8 @@
     "lSolutions": [
       10.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856397,
@@ -17555,7 +17852,8 @@
     "lSolutions": [
       16.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856398,
@@ -17574,7 +17872,8 @@
     "lSolutions": [
       77.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856400,
@@ -17593,7 +17892,8 @@
     "lSolutions": [
       22.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856401,
@@ -17612,7 +17912,8 @@
     "lSolutions": [
       5.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856402,
@@ -17631,7 +17932,8 @@
     "lSolutions": [
       2.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856403,
@@ -17650,7 +17952,8 @@
     "lSolutions": [
       2.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856404,
@@ -17669,7 +17972,8 @@
     "lSolutions": [
       2.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856405,
@@ -17688,7 +17992,8 @@
     "lSolutions": [
       3.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856406,
@@ -17707,7 +18012,8 @@
     "lSolutions": [
       2.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856407,
@@ -17726,7 +18032,8 @@
     "lSolutions": [
       3.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856408,
@@ -17745,7 +18052,8 @@
     "lSolutions": [
       7.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856410,
@@ -17766,7 +18074,8 @@
     "lSolutions": [
       12.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856411,
@@ -17787,7 +18096,8 @@
     "lSolutions": [
       12.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856412,
@@ -17808,7 +18118,8 @@
     "lSolutions": [
       6.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856413,
@@ -17829,7 +18140,8 @@
     "lSolutions": [
       11.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856414,
@@ -17850,7 +18162,8 @@
     "lSolutions": [
       3.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856415,
@@ -17871,7 +18184,8 @@
     "lSolutions": [
       5.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856417,
@@ -17892,7 +18206,8 @@
     "lSolutions": [
       2.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856418,
@@ -17913,7 +18228,8 @@
     "lSolutions": [
       4.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856419,
@@ -17934,7 +18250,8 @@
     "lSolutions": [
       8.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856420,
@@ -17955,7 +18272,8 @@
     "lSolutions": [
       10.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856421,
@@ -17975,7 +18293,8 @@
     "lSolutions": [
       20.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856422,
@@ -17995,7 +18314,8 @@
     "lSolutions": [
       3.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856423,
@@ -18015,7 +18335,8 @@
     "lSolutions": [
       28.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856424,
@@ -18035,7 +18356,8 @@
     "lSolutions": [
       7.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856425,
@@ -18055,7 +18377,8 @@
     "lSolutions": [
       27.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856426,
@@ -18075,7 +18398,8 @@
     "lSolutions": [
       25.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856427,
@@ -18096,7 +18420,8 @@
     "lSolutions": [
       19.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856428,
@@ -18117,7 +18442,8 @@
     "lSolutions": [
       47.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856429,
@@ -18138,7 +18464,8 @@
     "lSolutions": [
       81.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856430,
@@ -18159,7 +18486,8 @@
     "lSolutions": [
       11.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856431,
@@ -18180,7 +18508,8 @@
     "lSolutions": [
       13.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856432,
@@ -18201,7 +18530,8 @@
     "lSolutions": [
       48.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856433,
@@ -18222,7 +18552,8 @@
     "lSolutions": [
       6.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856434,
@@ -18243,7 +18574,8 @@
     "lSolutions": [
       34.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856435,
@@ -18264,7 +18596,8 @@
     "lSolutions": [
       12.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856437,
@@ -18285,7 +18618,8 @@
     "lSolutions": [
       22.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856438,
@@ -18304,7 +18638,8 @@
     "lSolutions": [
       91.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856439,
@@ -18323,7 +18658,8 @@
     "lSolutions": [
       78.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856440,
@@ -18342,7 +18678,8 @@
     "lSolutions": [
       68.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856441,
@@ -18361,7 +18698,8 @@
     "lSolutions": [
       100.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856442,
@@ -18380,7 +18718,8 @@
     "lSolutions": [
       160.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856443,
@@ -18399,7 +18738,8 @@
     "lSolutions": [
       11.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856444,
@@ -18418,7 +18758,8 @@
     "lSolutions": [
       3.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856445,
@@ -18437,7 +18778,8 @@
     "lSolutions": [
       10.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856446,
@@ -18456,7 +18798,8 @@
     "lSolutions": [
       10.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856447,
@@ -18475,7 +18818,8 @@
     "lSolutions": [
       10.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856448,
@@ -18494,7 +18838,8 @@
     "lSolutions": [
       53.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856449,
@@ -18513,7 +18858,8 @@
     "lSolutions": [
       100.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856450,
@@ -18532,7 +18878,8 @@
     "lSolutions": [
       78.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856451,
@@ -18551,7 +18898,8 @@
     "lSolutions": [
       25.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856452,
@@ -18570,7 +18918,8 @@
     "lSolutions": [
       191.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856453,
@@ -18589,7 +18938,8 @@
     "lSolutions": [
       142.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856454,
@@ -18608,7 +18958,8 @@
     "lSolutions": [
       1178.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856455,
@@ -18627,7 +18978,8 @@
     "lSolutions": [
       26.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856456,
@@ -18646,7 +18998,8 @@
     "lSolutions": [
       900.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856457,
@@ -18665,7 +19018,8 @@
     "lSolutions": [
       7.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856458,
@@ -18684,7 +19038,8 @@
     "lSolutions": [
       5.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856459,
@@ -18703,7 +19058,8 @@
     "lSolutions": [
       11.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856460,
@@ -18722,7 +19078,8 @@
     "lSolutions": [
       11.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856461,
@@ -18741,7 +19098,8 @@
     "lSolutions": [
       11.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856462,
@@ -18760,7 +19118,8 @@
     "lSolutions": [
       12.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856463,
@@ -18779,7 +19138,8 @@
     "lSolutions": [
       10.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856464,
@@ -18798,7 +19158,8 @@
     "lSolutions": [
       13.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856465,
@@ -18817,7 +19178,8 @@
     "lSolutions": [
       11.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856466,
@@ -18836,7 +19198,8 @@
     "lSolutions": [
       70.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856467,
@@ -18855,7 +19218,8 @@
     "lSolutions": [
       59.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856468,
@@ -18874,7 +19238,8 @@
     "lSolutions": [
       71.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856469,
@@ -18893,7 +19258,8 @@
     "lSolutions": [
       139.32
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856470,
@@ -18912,7 +19278,8 @@
     "lSolutions": [
       1.5099999999999998
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856471,
@@ -18931,7 +19298,8 @@
     "lSolutions": [
       9.54
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856472,
@@ -18950,7 +19318,8 @@
     "lSolutions": [
       2.2300000000000004
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856473,
@@ -18971,7 +19340,8 @@
     "lSolutions": [
       18.700000000000003
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856474,
@@ -18992,7 +19362,8 @@
     "lSolutions": [
       9.28
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856475,
@@ -19013,7 +19384,8 @@
     "lSolutions": [
       5.58
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856476,
@@ -19034,7 +19406,8 @@
     "lSolutions": [
       7.48
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856477,
@@ -19055,7 +19428,8 @@
     "lSolutions": [
       10.620000000000001
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856478,
@@ -19076,7 +19450,8 @@
     "lSolutions": [
       2.419999999999999
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856479,
@@ -19095,7 +19470,8 @@
     "lSolutions": [
       2750.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856480,
@@ -19114,7 +19490,8 @@
     "lSolutions": [
       5098.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856481,
@@ -19133,7 +19510,8 @@
     "lSolutions": [
       3606.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856482,
@@ -19152,7 +19530,8 @@
     "lSolutions": [
       1357.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856483,
@@ -19171,7 +19550,8 @@
     "lSolutions": [
       1013.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856484,
@@ -19190,7 +19570,8 @@
     "lSolutions": [
       2874.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856485,
@@ -19209,7 +19590,8 @@
     "lSolutions": [
       3120.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856486,
@@ -19228,7 +19610,8 @@
     "lSolutions": [
       76924.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856488,
@@ -19247,7 +19630,8 @@
     "lSolutions": [
       26866.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856489,
@@ -19266,7 +19650,8 @@
     "lSolutions": [
       14294.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856490,
@@ -19285,7 +19670,8 @@
     "lSolutions": [
       65057.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856491,
@@ -19304,7 +19690,8 @@
     "lSolutions": [
       42742.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856492,
@@ -19323,7 +19710,8 @@
     "lSolutions": [
       73851.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856493,
@@ -19342,7 +19730,8 @@
     "lSolutions": [
       49034.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856495,
@@ -19361,7 +19750,8 @@
     "lSolutions": [
       12421.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856496,
@@ -19380,7 +19770,8 @@
     "lSolutions": [
       61052.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856497,
@@ -19399,7 +19790,8 @@
     "lSolutions": [
       452883.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856498,
@@ -19418,7 +19810,8 @@
     "lSolutions": [
       9828.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856499,
@@ -19437,7 +19830,8 @@
     "lSolutions": [
       3426.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856500,
@@ -19457,7 +19851,8 @@
     "lSolutions": [
       11562.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856501,
@@ -19476,7 +19871,8 @@
     "lSolutions": [
       13305.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856502,
@@ -19495,7 +19891,8 @@
     "lSolutions": [
       1484.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856503,
@@ -19514,7 +19911,8 @@
     "lSolutions": [
       13437.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856504,
@@ -19533,7 +19931,8 @@
     "lSolutions": [
       9517.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856505,
@@ -19552,7 +19951,8 @@
     "lSolutions": [
       1920.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856506,
@@ -19571,7 +19971,8 @@
     "lSolutions": [
       2155.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856507,
@@ -19590,7 +19991,8 @@
     "lSolutions": [
       6241.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856508,
@@ -19609,7 +20011,8 @@
     "lSolutions": [
       16359.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856509,
@@ -19628,7 +20031,8 @@
     "lSolutions": [
       7349.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856510,
@@ -19647,7 +20051,8 @@
     "lSolutions": [
       11229.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856511,
@@ -19666,7 +20071,8 @@
     "lSolutions": [
       8145.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856512,
@@ -19685,7 +20091,8 @@
     "lSolutions": [
       6052.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856513,
@@ -19704,7 +20111,8 @@
     "lSolutions": [
       8681.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856514,
@@ -19723,7 +20131,8 @@
     "lSolutions": [
       5200.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856515,
@@ -19742,7 +20151,8 @@
     "lSolutions": [
       10828.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856516,
@@ -19761,7 +20171,8 @@
     "lSolutions": [
       8919.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856517,
@@ -19780,7 +20191,8 @@
     "lSolutions": [
       5743.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856518,
@@ -19799,7 +20211,8 @@
     "lSolutions": [
       4072.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856519,
@@ -19818,7 +20231,8 @@
     "lSolutions": [
       1.25
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856520,
@@ -19837,7 +20251,8 @@
     "lSolutions": [
       1.625
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856521,
@@ -19857,7 +20272,8 @@
     "lSolutions": [
       1.1666666666666665
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856522,
@@ -19876,7 +20292,8 @@
     "lSolutions": [
       1.3333333333333335
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856524,
@@ -19895,7 +20312,8 @@
     "lSolutions": [
       1.25
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856525,
@@ -19914,7 +20332,8 @@
     "lSolutions": [
       4.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856526,
@@ -19933,7 +20352,8 @@
     "lSolutions": [
       7.75
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856527,
@@ -19954,7 +20374,8 @@
     "lSolutions": [
       4.9
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856528,
@@ -19973,7 +20394,8 @@
     "lSolutions": [
       7.800000000000001
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856529,
@@ -19992,7 +20414,8 @@
     "lSolutions": [
       3.8
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856530,
@@ -20012,7 +20435,8 @@
     "lSolutions": [
       12.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856532,
@@ -20031,7 +20455,8 @@
     "lSolutions": [
       1.5999999999999996
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856533,
@@ -20050,7 +20475,8 @@
     "lSolutions": [
       4.166666666666667
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856534,
@@ -20069,7 +20495,8 @@
     "lSolutions": [
       3.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856535,
@@ -20088,7 +20515,8 @@
     "lSolutions": [
       14.75
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856536,
@@ -20108,7 +20536,8 @@
     "lSolutions": [
       3.3333333333333335
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856537,
@@ -20127,7 +20556,8 @@
     "lSolutions": [
       11.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856538,
@@ -20146,7 +20576,8 @@
     "lSolutions": [
       29.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856539,
@@ -20165,7 +20596,8 @@
     "lSolutions": [
       6.6
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856540,
@@ -20187,7 +20619,8 @@
     "lSolutions": [
       5.8
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856541,
@@ -20206,7 +20639,8 @@
     "lSolutions": [
       1.1600000000000001
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856542,
@@ -20226,7 +20660,8 @@
     "lSolutions": [
       2.88
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856543,
@@ -20245,7 +20680,8 @@
     "lSolutions": [
       1.6
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856544,
@@ -20264,7 +20700,8 @@
     "lSolutions": [
       2.1999999999999993
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856545,
@@ -20283,7 +20720,8 @@
     "lSolutions": [
       15.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856546,
@@ -20302,7 +20740,8 @@
     "lSolutions": [
       5.62
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856547,
@@ -20322,7 +20761,8 @@
     "lSolutions": [
       4.699999999999999
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856548,
@@ -20341,7 +20781,8 @@
     "lSolutions": [
       6.5
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856549,
@@ -20360,7 +20801,8 @@
     "lSolutions": [
       1.5400000000000005
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856550,
@@ -20380,7 +20822,8 @@
     "lSolutions": [
       62.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856551,
@@ -20399,7 +20842,8 @@
     "lSolutions": [
       63.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856552,
@@ -20419,7 +20863,8 @@
     "lSolutions": [
       55.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856553,
@@ -20439,7 +20884,8 @@
     "lSolutions": [
       24.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856554,
@@ -20459,7 +20905,8 @@
     "lSolutions": [
       162.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856555,
@@ -20479,7 +20926,8 @@
     "lSolutions": [
       111.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856556,
@@ -20499,7 +20947,8 @@
     "lSolutions": [
       16.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856557,
@@ -20519,7 +20968,8 @@
     "lSolutions": [
       7.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856558,
@@ -20538,7 +20988,8 @@
     "lSolutions": [
       1025.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856559,
@@ -20558,7 +21009,8 @@
     "lSolutions": [
       1259.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856560,
@@ -20578,7 +21030,8 @@
     "lSolutions": [
       1054.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856561,
@@ -20598,7 +21051,8 @@
     "lSolutions": [
       12.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856562,
@@ -20618,7 +21072,8 @@
     "lSolutions": [
       10.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856564,
@@ -20638,7 +21093,8 @@
     "lSolutions": [
       10.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856565,
@@ -20658,7 +21114,8 @@
     "lSolutions": [
       12.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856566,
@@ -20678,7 +21135,8 @@
     "lSolutions": [
       10.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856567,
@@ -20697,7 +21155,8 @@
     "lSolutions": [
       2.7799999999999994
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856568,
@@ -20718,7 +21177,8 @@
     "lSolutions": [
       12.210000000000008
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856569,
@@ -20738,7 +21198,8 @@
     "lSolutions": [
       8.54
     ],
-    "rates": []
+    "rates": [],
+    "template": 0
   },
   {
     "iIndex": 1232856570,
@@ -20760,7 +21221,8 @@
     "lSolutions": [
       155.0
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856571,
@@ -20781,7 +21243,8 @@
     "lSolutions": [
       143.32
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856573,
@@ -20804,7 +21267,8 @@
     "lSolutions": [
       109.08999999999999
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856574,
@@ -20827,7 +21291,8 @@
     "lSolutions": [
       115.83
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856575,
@@ -20849,7 +21314,8 @@
     "lSolutions": [
       13.900000000000002
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856576,
@@ -20871,7 +21337,8 @@
     "lSolutions": [
       15.86
     ],
-    "rates": []
+    "rates": [],
+    "template": 1
   },
   {
     "iIndex": 1232856577,
